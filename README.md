@@ -1,2 +1,2 @@
 # Feather client - Feather client Minecraft - Feather Minecraft
-Feather Client Minecraft Launcher is essentially a modded Forge and Fabric launcher that players can use. Hence, one of it's main features is that it openly supports almost every mod that can run on both Fabric and Forge. You can toggle and manage the mods from the launcher's mod section. Download now!
+Feather Client is a Launcher for Minecraft that combines modding capabilities under Forge and Fabric. One of its key features is the broad support for almost all mods compatible with these platforms. You have the opportunity to manage and customize mods through a special section in the launcher. Download it right now!
